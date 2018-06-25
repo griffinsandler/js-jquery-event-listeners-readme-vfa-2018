@@ -6,8 +6,11 @@ function getIt() {
 }
 
 function frameIt() {
-  
+  $('img').addClass("tasty");
+  return;
 }
+
+
 
 $(document).ready(function(){
 
