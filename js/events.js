@@ -1,6 +1,11 @@
 //define functions here
 
 function getIt() {
+  alert("Hey!");
+  return;
+}
+
+function frameIt() {
   
 }
 
